@@ -1,1 +1,1 @@
-# [https://maks-ru.github.io/todo/] todo :
+# todo(https://maks-ru.github.io/todo/)
